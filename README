@@ -1,5 +1,5 @@
-Script will parse a website and find the e-mail addresses using REGEX.
-Next release will follow a variable number of links on the website to aide in scanning and entire website rather than one page.
+Script will parse a website that will help you find e-mail addresses using REGEX.
+Next release will follow a variable number of links on the website to aide in scanning an entire website rather than one page.
 
 Usage:
 Using python 2.7, execute emailScrape.py
